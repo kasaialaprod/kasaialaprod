@@ -15,10 +15,12 @@
 
 <p align="left">
   <!-- Remplacez ou ajoutez vos technos ci-dessous. Quelques exemples populaires : -->
-  <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/539c0529-77e2-4e3b-b50d-2c1af2fa7252" />
+  <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/539c0529-77e2-4e3b-b50d-2c1af2fa7252" />
 
-  <img src="https://shields.io" alt="CSS3" />
-  <img src="https://shields.io" alt="JavaScript" />
+  <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/38779b38-4271-41d0-b1a0-24ec4b2460b2" />
+
+  <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/a70d7d10-737d-4604-b704-ed9329673a33" />
+
   <img src="https://shields.io" alt="Python" />
   <img src="https://shields.io" alt="Git" />
 </p>
