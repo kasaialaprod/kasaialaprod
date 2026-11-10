@@ -23,7 +23,7 @@
 
   <img width="30" height="30" src="[https://shields.io](https://share.google/YBETHhnYPZ1LXSndg)" alt="REACT" />
   
-  <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/b837dde3-66cf-4c58-befe-c3ecfa18a53b" />
+  <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/39965567-8073-491c-bc97-ed227d403f42" />
 
   <img width="30" height="30" src="https://share.google/AJBgbQvIXoImWZraf" alt="image" />
   
