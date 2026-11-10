@@ -20,13 +20,14 @@
   <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/38779b38-4271-41d0-b1a0-24ec4b2460b2" />
 
   <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/a70d7d10-737d-4604-b704-ed9329673a33" />
-
-  <img width="30" height="30" src="[https://shields.io](https://share.google/YBETHhnYPZ1LXSndg)" alt="REACT" />
   
-  <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/39965567-8073-491c-bc97-ed227d403f42" />
+  <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/19f73efa-461c-4baa-bc76-ab1dc87ba4d6" />
 
-  <img width="30" height="30" src="https://share.google/AJBgbQvIXoImWZraf" alt="image" />
-  
+  <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/9a9769eb-5a7f-4fbe-a3b9-0f3eb6c024b1" />
+
+  <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/8be7e248-a0c4-4171-b365-4802a3d5087e" />
+
+  can't put all my knowledge here (can't find the icons) but yk i'm pretty cold 
 
 </p>
 
@@ -35,19 +36,5 @@
 ### 🧙‍♂️ THE LEGEND
 
 <p align="center">
-  <img src="https://vercel.app" alt="Mes stats GitHub" height="150" />
-  <img src="https://vercel.app" alt="Mes langages les plus utilisés" height="150" />
-</p>
-
----
-
-### 📫 Me contacter
-
-<p align="left">
-  <a href="mailto:votre.email@example.com">
-    <img src="https://shields.io" alt="Email" />
-  </a>
-  <a href="https://linkedin.com">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
+  ... yet to come 🤫
 </p>
