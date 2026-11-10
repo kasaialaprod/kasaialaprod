@@ -1,4 +1,3 @@
-# kasaialaprod
 # 👋 Type, c'est le big Kasai à la Prod !
 
 <p align="center">
@@ -7,15 +6,16 @@
 
 ---
 
-### 🚀 À propos de moi
+### 👨‍💻 THE MAN
 
-- 💻 Actuellement en train de développer des outils pratiques comme **[Calcule-Moyenne](https://github.com)**.
-- 🎓 [Étudiant en informatique / Développeur web / Passionné de code].
-- ⚡ Fun fact : Je passe probablement trop de temps à optimiser mes fichiers README.
+- ⛷️ Sur la W4Ve comme au SKIII.
+- 🚀 High Rocket frappe du SkY.
+- ☃️ Freezra outside il C4ILLE.
+- 🎳 Sh00ter right dans les Quilles
 
 ---
 
-### 🛠️ Mes Technologies & Outils
+### 🥷 THE MYTH
 
 <p align="left">
   <!-- Remplacez ou ajoutez vos technos ci-dessous. Quelques exemples populaires : -->
@@ -28,7 +28,7 @@
 
 ---
 
-### 📊 Mes Statistiques GitHub
+### 🧙‍♂️ THE LEGEND
 
 <p align="center">
   <img src="https://vercel.app" alt="Mes stats GitHub" height="150" />
