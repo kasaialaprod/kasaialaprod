@@ -15,7 +15,7 @@
 
 <p align="left">
   <!-- Remplacez ou ajoutez vos technos ci-dessous. Quelques exemples populaires : -->
-  <img src="https://shields.io" alt="HTML5" />
+  <img src="[https://shields.io](https://www.flaticon.com/fr/icone-gratuite/html_143655?term=langage+de+programmation&page=1&position=6&origin=tag&related_id=143655)" alt="HTML5" />
   <img src="https://shields.io" alt="CSS3" />
   <img src="https://shields.io" alt="JavaScript" />
   <img src="https://shields.io" alt="Python" />
