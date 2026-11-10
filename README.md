@@ -21,8 +21,13 @@
 
   <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/a70d7d10-737d-4604-b704-ed9329673a33" />
 
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="Git" />
+  <img width="30" height="30" src="[https://shields.io](https://share.google/YBETHhnYPZ1LXSndg)" alt="REACT" />
+  
+  <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/b837dde3-66cf-4c58-befe-c3ecfa18a53b" />
+
+  <img width="30" height="30" src="https://share.google/AJBgbQvIXoImWZraf" alt="image" />
+  
+
 </p>
 
 ---
