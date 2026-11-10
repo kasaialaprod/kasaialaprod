@@ -1,4 +1,4 @@
-# 👋 Type sshhh, c'est Kasaï à la big Dep !
+# ✊🏿 Wagwan, c'est Kasaï à la big Dep !
 
 ---
 
@@ -27,7 +27,7 @@
 
   <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/8be7e248-a0c4-4171-b365-4802a3d5087e" />
 
-  can't put all my knowledge here (can't find the icons) but yk i'm pretty cold 
+  can't put all my knowledge here (can't find the icons) but yk i'm pretty cold type shhh
 
 </p>
 
