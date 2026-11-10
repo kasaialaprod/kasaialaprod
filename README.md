@@ -1,8 +1,4 @@
-# 👋 Type, c'est le big Kasai à la Prod !
-
-<p align="center">
-  <img src="https://demolab.com+!" alt="Typing SVG" />
-</p>
+# 👋 Type sshhh, c'est Kasai à la big Dep !
 
 ---
 
