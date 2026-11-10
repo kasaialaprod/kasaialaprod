@@ -1,4 +1,4 @@
-# 👋 Type sshhh, c'est Kasai à la big Dep !
+# 👋 Type sshhh, c'est Kasaï à la big Dep !
 
 ---
 
